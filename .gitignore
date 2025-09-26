@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files:
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment:
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.env/
+
+# Output, log, or data files:
+*.log
+*.csv
+*.dat
+*.db
+*.sqlite
+matrix_layout.txt
+
+# Editor/IDE folders/settings:
+.vscode/
+.idea/
+
+# System files:
+.DS_Store
+
+# Jupyter Notebook checkpoints:
+.ipynb_checkpoints
+
+# Python backup files:
+*.bak
+
+# Test/disposable files:
+*.tmp
+*.swp
+
+# If you generate images or large files and don't want them in your repo:
+# images/
